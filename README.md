@@ -1,4 +1,4 @@
-# Create Crypto Charts
+# Crypto Charts
 
 https://woobull.com/
 https://codeburst.io/simple-data-visualization-with-react-js-svg-line-chart-tutorial-df12e5843ce
